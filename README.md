@@ -1,5 +1,5 @@
 
-## [agarwl.github.io/pse](https://agarwl.github.io/pse)
+## [agarwl.github.io/iup](https://agarwl.github.io/iup)
 
-Github Page for the paper "Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning".  
+Github Page for the paper "Implicit Under-Parameterization Inhibits Data-Efficient Deep Reinforcement Learning".  
 
