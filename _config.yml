@@ -1,11 +1,12 @@
 intro:
-title: Contrastive Behavioral Similarity Embeddings for Generalization in Reinforcement Learning
+title: Implicit Under-Parameterization Inhibits Data-Efficient Deep Reinforcement Learning
 description:
--  Contributed Talk (15 min) at NeurIPS 2020 Workshop on Biological and Artificial RL. 
+-  NeurIPS 2020 Workshop on Deep RL and Real-World RL
 buttons:
-  Paper: 'pdfs/paper.pdf'
+  Paper: 'https://arxiv.org/abs/2010.14498'
   # Code: 'https://github.com/google-research/batch_rl'
-  Slides: 'pdfs/slides.pdf'
-  Poster: 'pdfs/pse_poster.pdf'
-  Contributed Talk: 'https://slideslive.com/38942373' 
+  Slides: 'https://drive.google.com/file/d/1vFs1FDS-h8HQ1J1rUKCgpbDlKTCZMap-/view?usp=sharing'
+  Poster: 'pdfs/poster.pdf'
+  Talk: 'https://www.youtube.com/watch?v=dgnpGl2iNw8' 
   Authors: '#authors'
+

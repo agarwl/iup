@@ -1,16 +1,17 @@
-- name: Rishabh Agarwal
+
+- name: Aviral Kumar*
+  image: https://offline-rl-neurips.github.io/images/organizers/aviral.jpg
+  title: UC Berkeley & PhD Student
+  url: https://aviralkumar2907.github.io/
+- name: Rishabh Agarwal*
   image: https://agarwl.github.io/images/rishabh_profile.jpg
   title: Google Research, Brain Team and Mila & Research Associate
   url: https://agarwl.github.io/
-- name: Marlos C. Machado
-  image: assets/faces/marlos.png
-  title: Google Research, Brain Team & Research Scientist
-  url: http://mcmachado.info/
-- name: Pablo Samuel Castro
-  image: assets/faces/psc_gradient.png
-  url: https://psc-g.github.io/
-  title: Google Research, Brain Team & Staff Software Engineer 
-- name: Marc G. Bellemare
-  image: assets/faces/marc.jpg
-  url: http://www.marcgbellemare.info/
-  title: Google Research, Brain Team & Staff Research Scientist
+- name: Dibya Ghosh
+  image: assets/faces/dibya.jpeg
+  url: https://dibyaghosh.com/
+  title: UC Berkeley & PhD Student 
+- name: Sergey Levine
+  image: https://www2.eecs.berkeley.edu/Faculty/Photos/Homepages/svlevine.jpg
+  url: https://people.eecs.berkeley.edu/~svlevine/
+  title: UC Berkeley and Google Research & Assistant Professor
