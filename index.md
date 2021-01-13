@@ -14,11 +14,11 @@ Citing
 ------
 To cite this paper, please use the following reference:
 
-	@article{kumar2020implicit,
+	@inproceedings{kumaragarwal2021implicit,
 	  title={Implicit Under-Parameterization Inhibits Data-Efficient Deep Reinforcement Learning},
 	  author={Kumar, Aviral and Agarwal, Rishabh and Ghosh, Dibya and Levine, Sergey},
-	  journal={arXiv preprint arXiv:2010.14498},
-	  year={2020}
+	  booktitle={International Conference on Learning Representations},
+	  year={2021}
 	}
 
 
