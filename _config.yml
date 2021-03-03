@@ -5,9 +5,10 @@ description:
 -  NeurIPS 2020 Workshop on Deep RL and Real-World RL
 buttons:
   Paper: 'https://arxiv.org/abs/2010.14498'
-  # Code: 'https://github.com/google-research/batch_rl'
+#   Code: 'https://github.com/google-research/batch_rl'
   Slides: 'https://drive.google.com/file/d/1vFs1FDS-h8HQ1J1rUKCgpbDlKTCZMap-/view?usp=sharing'
   Poster: 'pdfs/poster.pdf'
-  Talk: 'https://www.youtube.com/watch?v=dgnpGl2iNw8' 
+  Talk: 'https://www.youtube.com/watch?v=dgnpGl2iNw8'
+  OpenReview: 'https://openreview.net/forum?id=O9bnihsFfXU' 
   Authors: '#authors'
 
